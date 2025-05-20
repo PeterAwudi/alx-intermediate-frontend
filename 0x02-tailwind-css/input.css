@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  main {
+    grid-template-columns: 1fr;
+  }
+}
+
+<main class="grid grid-cols-3 gap-4 md:grid-cols-1">
+  <!-- columns -->
+</main>
