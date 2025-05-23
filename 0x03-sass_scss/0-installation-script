@@ -1,0 +1,11 @@
+0-installation-script
+Step 1: Install Node.js (if not already installed)
+Download and install Node.js from the official website: https://nodejs.org/en/download/.
+
+Step 2: Install SASS using npm Install sass -v 3.7.4 if you have node installed:
+
+Step 3: Verify SASS Installation
+Run the following command to verify that SASS has been installed correctly:
+
+bash
+npx sass --version
